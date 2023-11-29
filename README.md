@@ -17,8 +17,9 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools, HTML, CSS, Conflue
 <li>Задача №2. Протестировать и составить отчёт.</li>
 Был изначально составлен тест-план, далее составлялась тестовая документация на сонове требований к проекту. После чего были проведены следующие виды тестирования, такие как: smoke-тестирование, функциональное тестирование, регрессивное, приемочное тестирование.
 <br><br>
-Ссылка на проект: https://mammoth-coriander-f8c.notion.site/1-2-8031ebab1e494169ba73f1b02dd9b8a6
+Ссылка на проект: https://mammoth-coriander-f8c.notion.site/1-2-8031ebab1e494169ba73f1b02dd9b8a6 <br>
 https://mammoth-coriander-f8c.notion.site/6e123a9766c2482d99427bd738694061
+<br>
 #### Выводы:
 
 <li>Итог №1. Было успешно составлен тест-план и тестовая документация.</li>
@@ -33,7 +34,7 @@ https://mammoth-coriander-f8c.notion.site/6e123a9766c2482d99427bd738694061
 
 Изначально нужно было создать функциональные тест-кейсы по API, после чего нужно было составить коллекцию в Postman на основе тест-кейсов и провети тестирование.
 <br><br>
-Ссылка на проект: https://mammoth-coriander-f8c.notion.site/1-2-8031ebab1e494169ba73f1b02dd9b8a6
+Ссылка на проект: https://mammoth-coriander-f8c.notion.site/1-2-8031ebab1e494169ba73f1b02dd9b8a6 <br>
 https://mammoth-coriander-f8c.notion.site/6e123a9766c2482d99427bd738694061
 
 #### Выводы:
