@@ -37,7 +37,7 @@ https://mammoth-coriander-f8c.notion.site/6e123a9766c2482d99427bd738694061
 Ссылка на проект: https://mammoth-coriander-f8c.notion.site/1-2-8031ebab1e494169ba73f1b02dd9b8a6 <br>
 https://mammoth-coriander-f8c.notion.site/6e123a9766c2482d99427bd738694061
 
-#### Выводы:
+Выводы:
 
 <li>Итог №1. Были дополнены тест-план и тестовая документация.</li>
 <li>Итог №2. Создана коллекция в Postman, проведен тест-ран и на основе его результатов, был составлен отчет.</li>
